@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rilisFilm" value="name:id_film;datatype:int,name:bulan_rilis;datatype:string,name:judul_film;datatype:string,name:img_film;datatype:string,name:tgl_edit;datatype:timestamp" />
+	<infoitem key="UD_film_wo" value="name:id_film;datatype:int,name:bulan_rilis;datatype:string,name:judul_film;datatype:string,name:desc_film;datatype:blob,name:img_film;datatype:string,name:tgl_edit;datatype:timestamp" />
+</info>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tampilpesanan" value="name:kd_pesan;datatype:int,name:tgl_pesan;datatype:date,name:hari;datatype:string,name:judul;datatype:string,name:jam;datatype:string,name:seat_baris;datatype:string,name:seat_kolom;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:nama_lengkap;datatype:string,name:Username;datatype:string" />
+	<infoitem key="UD_pemesanan_fix" value="name:kd_pesan;datatype:int,name:tgl_pesan;datatype:date,name:hari;datatype:string,name:judul;datatype:string,name:jam;datatype:string,name:seat_baris;datatype:string,name:seat_kolom;datatype:string" />
+</info>

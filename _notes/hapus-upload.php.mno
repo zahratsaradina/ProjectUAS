@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_hapusFilm" value="name:id;datatype:int,name:judul;datatype:string,name:deskripsi;datatype:blob,name:gambar;datatype:string,name:tanggal;datatype:timestamp" />
+</info>

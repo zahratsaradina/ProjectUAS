@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_film_wo" value="name:id;datatype:int,name:judul;datatype:string,name:deskripsi;datatype:blob,name:gambar;datatype:string,name:tanggal;datatype:timestamp" />
+	<infoitem key="UD_Recordset1" value="name:id;datatype:int,name:judul;datatype:string,name:deskripsi;datatype:blob,name:gambar;datatype:string,name:tanggal;datatype:timestamp" />
+</info>

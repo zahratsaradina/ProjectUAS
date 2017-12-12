@@ -1,0 +1,307 @@
+#bg{
+	background-color: #ededed;
+	background-image: url("../images/bg/silver2.jpg");
+}
+#bg2{
+	background-color: #fff;
+	height: 1400px;
+	width: 1215px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+#ataskepala{
+	background-image: url(images/bg/silver2.jpg);
+	height: 50px;
+	width: 1220px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#kepala{
+	background-color: #fff;
+	height: 130px;
+	width: 1215px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#bg-rilisupload{
+	height: 700px;
+	background-image: url(../images/bg/silver2.jpg);
+}
+#bg2-rilisupload{
+	background-color: #fff;
+	height:300px;
+	width: 1215px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#bungkus_luar #isi {
+	height: 250px;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #fff;
+}
+#bungkus_luar #bawah {
+	height: 27px;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #fff;
+	background-image: url(images/src%20img/sf.jpg);
+}
+#bungkus_luar #bawahdown {
+	height: 15px;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFF;
+}
+#bungkus_luar #isisf {
+	height: 510px;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFF;
+}
+#bungkus_luar #isisfdalam {
+	height: 510px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFF;
+	background-image: url(images/src%20img/box.jpg);
+}
+
+#bungkus_luar #isisf #isisfdalam table tr td p {
+	font-size: 14px;
+}
+#bungkus_luar #isisf #isisfdalam table {
+	font-size: 14px;
+}
+#bungkus_luar #isisf #isisfdalam table tr td div {
+	font-size: 14px;
+}
+#bungkus_luar #kanan1 table tr td div {
+	font-size: 18px;
+}
+#didalamcenter {
+	background-color: #fff;
+	height: 60px;
+	width: 1100px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#bungkus_luar #centerlog{
+	background-color: #FFF;
+	height: 400px;
+	width: 1215px;
+	float: center;
+	margin: auto;
+	background-image: url(../images/src%20img/logadmin.png);
+}
+#bungkus_luar #menu2 {
+	background-color: #525252;
+	height: 75px;
+	width: 1215px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(../images/header9.png);
+}
+#bungkus_luar #uptengah {
+	height: 15px;
+	width: 1215px;
+	margin: auto;
+	background-color: #FFF;
+	margin-right: auto;
+	margin-left: auto;
+}
+#bungkus_luar #isi-wo {
+	height: 1100px;
+	width: 1215px;
+	background-color: #FFF;
+	margin: auto;
+	float: none;
+}
+#bungkus_luar #isi-update-profil {
+	height: 1000px;
+	width: 1215px;
+	background-color: #FFF;
+	margin: auto;
+	float: none;
+}
+#bungkus_luar #isi {
+	height: 300px;
+	width: 1215px;
+	background-color: #FFF;
+	margin: auto;
+	float: none;
+}
+#bungkus_luar #isi-loginsukses {
+	height: 1000px;
+	width: 1215px;
+	background-color: #FFF;
+	margin: auto;
+	float: none;
+}
+#bungkus_luar #isi-listfilm {
+	height: 900px;
+	width: 1215px;
+	background-color: #FFF;
+	margin: auto;
+	float: none;
+}
+#bungkus_luar div table tr td {
+	color: #000;
+	font-size: 16px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+#bungkus_luar div table tr td table tbody tr td {
+	font-size: 14px;
+}
+#bungkus_luar #bgisi {
+	height: 550px;
+	width: 625px;
+	background-color: #FFF;
+	float: center;
+	margin: auto;
+}
+#bungkus_luar #menu {
+	background-color: #C6161C;
+	height: 35px;
+	width: 1215px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#bungkus_luar #WN {
+	background-color: #FFF;
+	height: 100px;
+	width: 1050px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#bungkus_luar #isi2 {
+	height: 600px;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #fff;
+}
+#bungkus_luar #isi-lap {
+	height: 750px;
+	width: 1215px;
+	background-color: #FFF;
+	margin: auto;
+	float: none;
+}
+#bungkus_luar #isi-list {
+	height: 900px;
+	width: 1215px;
+	background-color: #FFF;
+	margin: auto;
+	float: none;
+}
+#redline{
+	background-color: #B30000;
+	height: 30px;
+	width: 1215px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#bg-release{
+	height: 4300px;
+	background-image: url(../images/bg/silver2.jpg);
+}
+#bg2-release{
+	background-color: #fff;
+	height: 4050px;
+	width: 1215px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+#bg-sukses{
+	height: 1410px;
+	background-image: url(../images/bg/silver2.jpg);
+}
+#bg2-sukses{
+	background-color: #fff;
+	height: 700px;
+	width: 1215px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+#bg-login{
+	height: 750px;
+	background-image: url(../images/bg/silver2.jpg);
+}
+#bg2-login{
+	background-color: #fff;
+	height: 480px;
+	width: 1215px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+#bg-abt{
+	height: 933px;
+	background-image: url(../images/bg/silver2.jpg);
+}
+#bg2-abt{
+	background-color: #fff;
+	height: 683px;
+	width: 1215px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+#bungkus_luar #menu-release {
+	background-color: #C6161C;
+	height: 35px;
+	width: 1215px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 0px;
+	left: 0px;
+	right: auto;
+	clip: rect(auto,auto,auto,0px);
+}
+#bungkus_luar #isi-release {
+	height: 3800px;
+	width: 1215px;
+	background-color: #FFF;
+	margin: auto;
+	float: none;
+}
+#footer {
+	background-color: #fff;
+	height: 40px;
+	width: 1215px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(../images/header9.png);
+}
+#footer1 {
+	background-color: #fff;
+	height: 30px;
+	width: 1215px;
+	margin-right: auto;
+	margin-left: auto;
+	font-weight: bold;
+}	

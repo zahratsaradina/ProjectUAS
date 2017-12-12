@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_updateProfile" value="name:nama_lengkap;datatype:string,name:tgllahir;datatype:date,name:Username;datatype:string,name:Password;datatype:string,name:konfirm_pass;datatype:string,name:email;datatype:string,name:no_hp;datatype:string,name:alamat;datatype:string" />
+	<infoitem key="UD_profile" value="name:nama_lengkap;datatype:string,name:tgllahir;datatype:date,name:Username;datatype:string,name:Password;datatype:string,name:konfirm_pass;datatype:string,name:email;datatype:string,name:no_hp;datatype:string,name:alamat;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:nama_lengkap;datatype:string,name:tgllahir;datatype:date,name:Username;datatype:string,name:Password;datatype:string,name:konfirm_pass;datatype:string,name:email;datatype:string,name:no_hp;datatype:string,name:alamat;datatype:string" />
+</info>

@@ -1,0 +1,243 @@
+@charset "utf-8";
+@import url("gaya2.css");
+/* CSS Document */
+
+body {
+    background: #ededed;
+    margin: 0;
+    padding: 0;
+    color: #4E0020;
+    text-align: center;
+}
+#menu_wrap {
+    position: relative;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+    padding-right: 0px;
+    height: 50px;
+    list-style-type: none;
+    -webkit-border-radius: 14px;
+    -moz-border-radius: 14px;
+    border-radius: 14px;
+    -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, .2);
+    -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, .2);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .2);
+}
+#bg{
+	background-color: #ededed;
+	background-image: url(images/bg/silver2.jpg);
+}
+#bg2{
+	background-color: #fff;
+	height: 1400px;
+	width: 1215px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+#ataskepala{
+	background-image: url(images/bg/silver2.jpg);
+	height: 50px;
+	width: 1215px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#kepala{
+	background-color: #fff;
+	height: 130px;
+	width: 1215px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#bungkus_luar #menu {
+	background-color: #C6161C;
+	height: 50px;
+	width: 1215px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#bungkus_luar #menu2 {
+	background-color: #525252;
+	height: 55px;
+	width: 1215px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(images/header9.png);
+}
+#bungkus_luar #menu3 {
+	background-color: #525252;
+	height: 55px;
+	width: 1215px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(images/header9.png);
+}
+#bungkus_luar div table tr td {
+	color: #000;
+	font-size: 16px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+#bungkus_luar div table tr td h5 {
+	font-family: Georgia, Times New Roman, Times, serif;
+}
+#bungkus_luar div table tr td h5 {
+	font-family: Verdana, Geneva, sans-serif;
+}
+#bungkus_luar div table tr td table tbody tr td {
+	font-size: 14px;
+}
+#bungkus_luar #tengah {
+	height: 27px;
+	width: 1200px;
+	margin-left: 2px;
+	background-image: url(images/src%20img/wo.jpg);
+	margin-right: auto;
+	margin-left: auto;
+}
+#bungkus_luar #tengahdown {
+	height: 15px;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFF;
+}
+#bungkus_luar #isi {
+	height: 250px;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #fff;
+}
+#bungkus_luar #bawah {
+	height: 27px;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #fff;
+	background-image: url(images/src%20img/sf.jpg);
+}
+#bungkus_luar #bawahdown {
+	height: 15px;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFF;
+}
+#bungkus_luar #isisf {
+	height: 510px;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFF;
+}
+#bungkus_luar #isisfdalam {
+	height: 510px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFF;
+	background-image: url(images/src%20img/box.jpg);
+}
+
+#bungkus_luar #isisf #isisfdalam table tr td p {
+	font-size: 14px;
+}
+#bungkus_luar #isisf #isisfdalam table {
+	font-size: 14px;
+}
+#bungkus_luar #isisf #isisfdalam table tr td div {
+	font-size: 14px;
+}
+#bungkus_luar #kanan1 table tr td div {
+	font-size: 18px;
+}
+#footer {
+	background-color: #fff;
+	height: 40px;
+	width: 1215px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(images/header9.png);
+}
+#footer1 {
+	background-color: #fff;
+	height: 30px;
+	width: 1215px;
+	margin-right: auto;
+	margin-left: auto;
+	font-weight: bold;
+}	
+.button a {
+    cursor: pointer;
+    text-align: center;
+    font: 13px/100% Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    position: relative;
+    min-width: 70px;
+    height: 20px;
+    float: left;
+    padding: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-decoration: none;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, .3);
+    width: 50px;
+}
+.button:first-child a {
+    -webkit-border-top-left-radius: 14px;
+    -webkit-border-bottom-left-radius: 14px;
+    -moz-border-topleft-radius: 14px;
+    -moz-border-bottomleft-radius: 14px;
+    border-top-left-radius: 14;
+    border-bottom-left-radius: 14px
+}
+.Red,
+.Red .button a {
+    color: #faddde;
+    background: #ed1c24;
+    border-right: solid 1px #aa1317;
+    background: -moz-linear-gradient(top, #ed1c24 0%, #aa1317 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ed1c24), color-stop(100%, #aa1317));
+    background: -webkit-linear-gradient(top, #ed1c24 0%, #aa1317 100%);
+    background: -o-linear-gradient(top, #ed1c24 0%, #aa1317 100%);
+    background: -ms-linear-gradient(top, #ed1c24 0%, #aa1317 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#ed1c24', endColorstr='#aa1317', GradientType=0);
+    background: linear-gradient(top, #ed1c24 0%, #aa1317 100%);
+}
+.Red .button a:hover,
+.Red .button a:focus {
+    background: #c9151b;
+    background: -moz-linear-gradient(top, #c9151b 0%, #a11115 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #c9151b), color-stop(100%, #a11115));
+    background: -webkit-linear-gradient(top, #c9151b 0%, #a11115 100%);
+    background: -o-linear-gradient(top, #c9151b 0%, #a11115 100%);
+    background: -ms-linear-gradient(top, #c9151b 0%, #a11115 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#c9151b', endColorstr='#a11115', GradientType=0);
+    background: linear-gradient(top, #c9151b 0%, #a11115 100%);
+}
+.Red .button a:active {
+    color: #de898c;
+    background: #aa1317;
+    background: -moz-linear-gradient(top, #aa1317 0%, #ed1c24 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #aa1317), color-stop(100%, #ed1c24));
+    background: -webkit-linear-gradient(top, #aa1317 0%, #ed1c24 100%);
+    background: -o-linear-gradient(top, #aa1317 0%, #ed1c24 100%);
+    background: -ms-linear-gradient(top, #aa1317 0%, #ed1c24 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#aa1317', endColorstr='#ed1c24', GradientType=0);
+    background: linear-gradient(top, #aa1317 0%, #ed1c24 100%);
+}
+.button:last-child a {
+    float: left;
+    border: none;
+    -webkit-border-top-right-radius: 14px;
+    -webkit-border-bottom-right-radius: 14px;
+    -moz-border-radius: 14px;
+    border-top-right-radius: 14px;
+    border-bottom-right-radius: 14px
+}
+
