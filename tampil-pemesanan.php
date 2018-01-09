@@ -245,7 +245,30 @@ $totalPages_Recordset1 = ceil($totalRows_Recordset1/$maxRows_Recordset1)-1;
       <?php } while ($row_tampilpesanan = mysql_fetch_assoc($tampilpesanan)); ?> */
   -->  </table>
 </div>
-    </div>
+
+
+
+    
+
+</div>
+    <div class="container" align="Left">
+  <h2><strong>Opsi Pembayaran</strong></h2>
+  <div class="alert alert-info">
+  <p>Pembayaran hanya bisa dilakukan melalui e-banking</p>
+  <p>Silakan pilih bank yang sudah tertera</p>
+  <p>Jika dalam kurun waktu 60 menit anda belum melakukan transfer, maka reservasi tiket dianggap gagal.</p>                   
+</div>                       
+  <div class="dropdown">
+    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Opsi Pembayaran
+    <span class="caret"></span></button>
+    <ul class="dropdown-menu" style="vertical-align: center">
+      <li><a href="infobri.php">BRI</a></li>
+      <li><a href="infobri.php">BCA</a></li>
+    </ul>
+  </div>
+</div>
+</div>
+
     	 <div id="footer"></div>
 <div id="footer1">Copyright © 2017 Zorro Cinema - All Rights Reserved</div></div>
 </body>

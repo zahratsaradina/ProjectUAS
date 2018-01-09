@@ -49,7 +49,7 @@ if (isset($_POST['txUser'])) {
   $MM_redirecttoReferrer = false;
   mysql_select_db($database_conn_admin, $conn_admin);
   
-  $LoginRS__query=sprintf("SELECT `user`, pwd FROM db_admin WHERE `user`=%s AND pwd=%s",
+  $LoginRS__query=sprintf("SELECT `Username`, Password FROM db_admin WHERE `Username`=%s AND Password=%s",
     GetSQLValueString($loginUsername, "text"), GetSQLValueString($password, "text")); 
    
   $LoginRS = mysql_query($LoginRS__query, $conn_admin) or die(mysql_error());
